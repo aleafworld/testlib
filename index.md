@@ -1,3 +1,3 @@
 ## Just for test
 
-URL : [editor on GitHub](https://aleafworld.github.io/testlib/) 
+URL : [https://aleafworld.github.io/testlib/](https://aleafworld.github.io/testlib/) 
